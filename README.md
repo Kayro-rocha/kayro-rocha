@@ -6,7 +6,6 @@
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayro-rocha-237636215/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kayrorocha09@gmail.com)
 
 ![Kayro GitHub stats](https://github-readme-stats.vercel.app/api?username=Kayro-rocha&show_icons=true&theme=dracula)
 
