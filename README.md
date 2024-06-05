@@ -1,6 +1,6 @@
 ### Prazer! Eu sou Kayro Rocha
 
-- 💻 Hoje trabalho como suporte de ti
+- 💻 Trabalho como suporte de ti
 - 📚 Cursando Redes de computadores e por fora estudo python(Django) e cloud AWS
 - 📫 Contate-me no email: kayrorocha09@gmail.com
 
