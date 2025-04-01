@@ -1,7 +1,7 @@
 ### Prazer! Eu sou Kayro Rocha
 
-- 💻 Trabalho como suporte de ti
-- 📚 Cursando Redes de computadores e por fora estudo python(Django) e cloud AWS
+- 💻 Programador backend
+- 📚 Formado em Redes de computadores e cursando sistema de informação
 - 📫 Contate-me no email: kayrorocha09@gmail.com
 
 
